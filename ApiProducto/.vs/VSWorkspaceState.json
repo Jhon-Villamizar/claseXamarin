@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApiProducto",
+    "\\ApiProducto\\Controllers",
+    "\\ApiProducto\\Migrations",
+    "\\ApiProducto\\Views",
+    "\\ApiProducto\\Views\\Home"
+  ],
+  "PreviewInSolutionExplorer": false
+}
