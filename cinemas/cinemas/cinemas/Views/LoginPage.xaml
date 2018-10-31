@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="cinemas.Views.LoginPage">
+
+    <StackLayout VerticalOptions="Center">
+        <Image Source="cinema2.png"/>
+        <Entry x:Name="txtUsuario" Placeholder="Usuario"/>
+        <Entry x:Name="txtPassword"  Placeholder="Contraseña" IsPassword="True"/>
+        <Button Text="Ingresar" Clicked="Ingresar_Click"/>
+    </StackLayout>
+</ContentPage>

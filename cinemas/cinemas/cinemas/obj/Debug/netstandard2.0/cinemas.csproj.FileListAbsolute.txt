@@ -1,0 +1,14 @@
+C:\Xamarin\cinemas\cinemas\cinemas\bin\Debug\netstandard2.0\cinemas.deps.json
+C:\Xamarin\cinemas\cinemas\cinemas\bin\Debug\netstandard2.0\cinemas.dll
+C:\Xamarin\cinemas\cinemas\cinemas\bin\Debug\netstandard2.0\cinemas.pdb
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.csprojAssemblyReference.cache
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.csproj.CoreCompileInputs.cache
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.AssemblyInfoInputs.cache
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.AssemblyInfo.cs
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.dll
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\cinemas.pdb
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\Views\CarteleraPage.xaml.g.cs
+C:\Xamarin\cinemas\cinemas\cinemas\obj\Debug\netstandard2.0\Views\FuncionesPage.xaml.g.cs

@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cinemas.Android", "cinemas\cinemas.Android\cinemas.Android.csproj", "{2591E260-D8F3-44C1-A324-996266813A70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cinemas", "cinemas\cinemas\cinemas.csproj", "{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2591E260-D8F3-44C1-A324-996266813A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2591E260-D8F3-44C1-A324-996266813A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2591E260-D8F3-44C1-A324-996266813A70}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2591E260-D8F3-44C1-A324-996266813A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2591E260-D8F3-44C1-A324-996266813A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2591E260-D8F3-44C1-A324-996266813A70}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B14FF3-AC06-4B7A-84B3-991B4ECAC0A3}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8507C77D-291E-4D5E-AF91-A1CA1FE21C01}
+	EndGlobalSection
+EndGlobal
