@@ -3,23 +3,11 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:navegacion"
              x:Class="navegacion.MainPage"
+             xmlns:views="clr-namespace:navegacion.Views"
             >
 
-    <ContentPage Title="Inicio" Icon="home.png">
-        <StackLayout>
-            <Label Text="Pagina de Inicio"/>
-        </StackLayout>
-    </ContentPage>
-    <ContentPage Title="Contactenos" Icon="phone.png">
-        <StackLayout>
-            <Label Text="Pagina de Contactenos"/>
-        </StackLayout>
-    </ContentPage>
-    <ContentPage Title="Acerca de" Icon="info.png">
-        <StackLayout>
-            <Label Text="Pagina de Acerca de"/>
-        </StackLayout>
-    </ContentPage>
-
+    <views:HomePage Title="Inicio" Icon="home.png"/>
+    <views:ContactoPage Title="Contacto" Icon="phone.png"/>
+    <views:AcercaPage Title="Acerca de" Icon="info.png"/>
 
 </TabbedPage>
