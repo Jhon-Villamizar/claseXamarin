@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:navegacion"
+             x:Class="navegacion.MainPage"
+            >
+
+    <ContentPage Title="Inicio" Icon="home.png">
+        <StackLayout>
+            <Label Text="Pagina de Inicio"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Contactenos" Icon="phone.png">
+        <StackLayout>
+            <Label Text="Pagina de Contactenos"/>
+        </StackLayout>
+    </ContentPage>
+    <ContentPage Title="Acerca de" Icon="info.png">
+        <StackLayout>
+            <Label Text="Pagina de Acerca de"/>
+        </StackLayout>
+    </ContentPage>
+
+
+</TabbedPage>
